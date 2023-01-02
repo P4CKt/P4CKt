@@ -1,6 +1,6 @@
 💫 About Me:
 ---
-🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on WorkinTech<br>
+🔭 I’m currently working on JavaScript<br>
 ---
 
 ## 🌐 Socials:
