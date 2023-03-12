@@ -1,5 +1,5 @@
 💫About Me:
----
+I'm passionate about finding creative solutions and also prioritize results-driven work. I'm constantly learning and striving to improve my skills and knowledge with new technologies.  I'm excited to work on new projects and make contributions to them.
 🔭 I’m currently working on React<br>
 ---
 
